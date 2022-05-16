@@ -2,6 +2,7 @@
 php export csv
 
 Mac OS, separator = ';'
+
 Window OS, separator = ','
 
 ## Example
