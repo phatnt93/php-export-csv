@@ -1,6 +1,9 @@
 # php export csv
 php export csv
 
+Mac OS, separator = ';'
+Window OS, separator = ','
+
 ## Example
 ```
 $filename = 'csv_export_' . date('Ymdhis');
