@@ -1,6 +1,17 @@
 <?php 
 
-namespace Library\Export;
+/** 
+* CSV
+* 
+* Made by phatnt93
+* 16/05/2022
+* 
+* @license MIT License
+* @author phatnt <thanhphat.uit@gmail.com>
+* @github https://github.com/phatnt93/php-export-csv
+* @version 1.0.0
+* 
+*/
 
 class CSV {
     const EXPORT_TYPE_FILE = 'file';
